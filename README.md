@@ -34,6 +34,10 @@ An open-source Discord verification bot built with Python, discord.py, SQLite, a
   <img src="koi/koi.gif" width="256" alt="A pixel-art animation generated from my GitHub activity">
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonsGames&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Languages by repository" />
+</p>
+
 ---
 
 <div align="center">
