@@ -35,7 +35,7 @@ An open-source Discord verification bot built with Python, discord.py, SQLite, a
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonsGames&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Languages by repository" />
+  <img src="koi/languages.svg" alt="Languages by public repository count" />
 </p>
 
 ---
