@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320">
+<rect width="640" height="320" rx="8" fill="#0d1117"/>
+<text x="44" y="54" fill="#b392ff" font-family="Arial,sans-serif" font-size="22" font-weight="700">Languages by repo count</text>
+<rect x="44" y="104" width="552" height="12" rx="6" fill="#30363d"/>
+<rect x="44.00" y="104" width="230.00" height="12" fill="#f1e05a"/>
+<rect x="274.00" y="104" width="138.00" height="12" fill="#e34c26"/>
+<rect x="412.00" y="104" width="92.00" height="12" fill="#3572A5"/>
+<rect x="504.00" y="104" width="46.00" height="12" fill="#89e051"/>
+<rect x="550.00" y="104" width="46.00" height="12" fill="#8b949e"/>
+<circle cx="50" cy="145" r="6" fill="#f1e05a"/>
+<text x="64" y="150" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">JavaScript 41.67%</text>
+<circle cx="330" cy="145" r="6" fill="#e34c26"/>
+<text x="344" y="150" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">HTML 25.00%</text>
+<circle cx="50" cy="179" r="6" fill="#3572A5"/>
+<text x="64" y="184" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">Python 16.67%</text>
+<circle cx="330" cy="179" r="6" fill="#89e051"/>
+<text x="344" y="184" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">Shell 8.33%</text>
+<circle cx="50" cy="213" r="6" fill="#8b949e"/>
+<text x="64" y="218" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="14">Batchfile 8.33%</text>
+<text x="44" y="294" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Public repositories · updated automatically</text>
+</svg>
