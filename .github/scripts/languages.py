@@ -6,7 +6,7 @@ import urllib.request
 from collections import Counter
 from html import escape
 
-OWNER = os.environ.get("GITHUB_REPOSITORY_OWNER", "DragonsGames")
+OWNER = os.environ.get("GITHUB_REPOSITORY_OWNER", "medsallemi")
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 API = "https://api.github.com"
 COLORS = {
